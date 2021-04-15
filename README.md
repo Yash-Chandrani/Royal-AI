@@ -1,2 +1,2 @@
 # Royal-AI
-Homework of Royal AI class
+Practice notebooks of AI.
